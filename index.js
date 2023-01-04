@@ -33,7 +33,7 @@ const questions = [{
     name: "Credits" 
 }, {
     type: "input",
-    message: "What licence is being used? (ie...MIT)",
+    message: "What license is being used? (ie...MIT)",
     name: "License"
 },{
     type: "input",
