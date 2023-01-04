@@ -31,4 +31,4 @@ https://github.com/JahazielFaye/READMEFile-Developer
 **In order to use this app, run the app in the terminal/gitbash also The following is needed to run the test: node index.js**
 ### Video Usage Walkthrough
 
-[![Video Walkthrough](./utils/READMEFile-Developer.gif)
+[![Video Walkthrough](./utils/READMEFile-Generator.gif)
