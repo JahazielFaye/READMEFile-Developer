@@ -35,11 +35,7 @@ const questions = [{
     type: "input",
     message: "What license is being used? (ie...MIT)",
     name: "License"
-},{
-    type: "input",
-    message: "What problem does it solve?",
-    name: "Description"     
-},  {
+}, {
     type: "input",
     message: "What is your Github?",
     name: "Username/Github"     
