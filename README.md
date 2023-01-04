@@ -31,4 +31,4 @@ https://github.com/JahazielFaye/READMEFile-Developer
 **In order to use this app, run the app in the terminal/gitbash also The following is needed to run the test: node index.js**
 ### Video Usage Walkthrough
 
--![Video Walkthrough](https://drive.google.com/file/d/1i2JmHbI-vyvaau-sPbIWB-FYzEIccns-/view)
+[![Video Walkthrough](https://drive.google.com/file/d/1i2JmHbI-vyvaau-sPbIWB-FYzEIccns-/view)
