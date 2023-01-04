@@ -36,10 +36,9 @@ const questions = [{
     message: "Do you have collaborators? or did you used any third-party assets that require attribution?",
     name: "Credits" 
 }, {
-    type: 'checkbox', 
-            name: 'license',
-            choices: ["MIT", "GPLv3", "GPL"],
-            message: 'Pick your License.'
+    type: "input",
+    message: "What liscence is being used? (ie...MIT)",
+    name: "License"
 },
 ];
 
