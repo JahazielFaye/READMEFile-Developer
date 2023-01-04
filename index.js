@@ -16,13 +16,9 @@ const questions = [{
 }, 
 {
     type: "input",
-    message: "What was your motivation?Why did you build this project? (Note: the answer is not Because it was a homework assignment)",
-    name: "Motivation"  
-}, {
-    type: "input",
-    message: "What problem does it solve?",
-    name: "Description"     
-},  
+    message: "What was your motivation?Why did you build this project? What problem does it solve?(Note: the answer is not Because it was a homework assignment)",
+    name: "Motivation/Description"  
+}, 
 {
     type: "input",
     message: "What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.",
@@ -37,9 +33,18 @@ const questions = [{
     name: "Credits" 
 }, {
     type: "input",
-    message: "What liscence is being used? (ie...MIT)",
+    message: "What licence is being used? (ie...MIT)",
     name: "License"
-},
+},{
+    type: "input",
+    message: "What problem does it solve?",
+    name: "Description"     
+},  {
+    type: "input",
+    message: "What is your Github?",
+    name: "Username/Github"     
+},  
+
 ];
 
 // function to write README file

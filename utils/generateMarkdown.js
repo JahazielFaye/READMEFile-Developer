@@ -16,11 +16,15 @@ https://github.com/${data.Username}/${data.Title}
 ${data.Description}
 # Usage
 *In order to use this app, ${data.Usage}
+#GitHub/Username
+*Your Github or Username Input
+${data.Username} : ${data.Email}.
 # License 
 This project is licensed under the ${data.License} license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 `
 }
+
 
 
 
