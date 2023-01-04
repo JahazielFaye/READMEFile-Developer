@@ -24,6 +24,7 @@ https://github.com/JahazielFaye/READMEFile-Developer
 ## Installation
  **Node js must be installed and also npm extension inquirer*
  http://adilapapaya.com/docs/inquirer/
+
  **Necessary dependencies must be installed to run the application properly: inquire, fs, util.*
 
 ## Usage
