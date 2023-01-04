@@ -34,4 +34,4 @@ https://github.com/JahazielFaye/READMEFile-Developer
 
 ### Video Usage Walkthrough
 
-[![Video Walkthrough](./utils/READMEFile-Generator.gif)
+![Video Walkthrough](./Develop/utils/READMEFile-Generator.gif)
